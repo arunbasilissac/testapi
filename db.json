@@ -20,7 +20,7 @@
           "team_id" : 9
         },
         "referee" : "M. Oliver",
-        "statusShort" : "PEN",
+        "statusShort" : "TBD",
         "firstHalfStart" : 1625241600,
         "venue" : "Saint-Petersburg Stadium",
         "round" : "Quarter-finals",
@@ -58,7 +58,7 @@
           "team_id" : 768
         },
         "referee" : "S. Vinčić",
-        "statusShort" : "FT",
+        "statusShort" : "TBD",
         "firstHalfStart" : 1625252400,
         "venue" : "Allianz Arena",
         "round" : "Quarter-finals",
@@ -96,7 +96,7 @@
           "team_id" : 21
         },
         "referee" : "B. Kuipers",
-        "statusShort" : "FT",
+        "statusShort" : "TBD",
         "firstHalfStart" : 1625328000,
         "venue" : "Bakı Olimpiya Stadionu",
         "round" : "Quarter-finals",
@@ -134,7 +134,7 @@
           "team_id" : 10
         },
         "referee" : "F. Brych",
-        "statusShort" : "FT",
+        "statusShort" : "TBD",
         "firstHalfStart" : 1625338800,
         "venue" : "Stadio Olimpico",
         "round" : "Quarter-finals",
