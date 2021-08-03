@@ -1,159 +1,387 @@
 {
   "api" : {
-    "results" : 4,
     "fixtures" : [
       {
-        "elapsed" : 120,
-        "status" : "Match Finished",
-        "event_date" : "2021-07-02T17:00:00+01:00",
-        "score" : {
-          "extratime" : "0-0",
-          "penalty" : "1-3",
-          "fulltime" : "1-1",
-          "halftime" : "0-1"
-        },
-        "fixture_id" : 718243,
-        "event_timestamp" : 1625241600,
-        "awayTeam" : {
-          "team_name" : "Spain",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/9.png",
-          "team_id" : 9
-        },
-        "referee" : "M. Oliver",
-        "statusShort" : "TBD",
-        "firstHalfStart" : 1625241600,
-        "venue" : "Saint-Petersburg Stadium",
-        "round" : "Quarter-finals",
-        "goalsAwayTeam" : 1,
+        "status" : "Not Started",
+        "firstHalfStart" : null,
         "league" : {
-          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/4.png",
-          "country" : "World",
-          "flag" : null,
-          "name" : "Euro Championship"
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "country" : "England",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png",
+          "name" : "Premier League"
         },
-        "secondHalfStart" : 1625245200,
+        "fixture_id" : 710556,
+        "goalsHomeTeam" : null,
         "homeTeam" : {
-          "team_name" : "Switzerland",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/15.png",
-          "team_id" : 15
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/55.png",
+          "team_id" : 55,
+          "team_name" : "Brentford"
         },
-        "goalsHomeTeam" : 1,
-        "league_id" : 403
+        "event_date" : "2021-08-13T20:00:00+01:00",
+        "league_id" : 3456,
+        "elapsed" : 0,
+        "event_timestamp" : 1628881200,
+        "round" : "Regular Season - 1",
+        "secondHalfStart" : null,
+        "score" : {
+          "extratime" : null,
+          "fulltime" : null,
+          "penalty" : null,
+          "halftime" : null
+        },
+        "referee" : null,
+        "venue" : "Brentford Community Stadium",
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/42.png",
+          "team_id" : 42,
+          "team_name" : "Arsenal"
+        },
+        "goalsAwayTeam" : null
       },
       {
-        "elapsed" : 90,
-        "status" : "Match Finished",
-        "event_date" : "2021-07-02T20:00:00+01:00",
+        "secondHalfStart" : null,
+        "firstHalfStart" : null,
+        "goalsHomeTeam" : null,
+        "awayTeam" : {
+          "team_name" : "Leeds",
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/63.png",
+          "team_id" : 63
+        },
+        "goalsAwayTeam" : null,
+        "league" : {
+          "name" : "Premier League",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "country" : "England",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png"
+        },
+        "statusShort" : "NS",
+        "event_timestamp" : 1628940600,
+        "fixture_id" : 710561,
+        "event_date" : "2021-08-14T12:30:00+01:00",
+        "homeTeam" : {
+          "team_name" : "Manchester United",
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/33.png",
+          "team_id" : 33
+        },
+        "status" : "Not Started",
+        "venue" : "Old Trafford",
+        "score" : {
+          "penalty" : null,
+          "fulltime" : null,
+          "halftime" : null,
+          "extratime" : null
+        },
+        "referee" : null,
+        "elapsed" : 0,
+        "league_id" : 3456,
+        "round" : "Regular Season - 1"
+      },
+      {
+        "secondHalfStart" : null,
+        "firstHalfStart" : null,
+        "goalsHomeTeam" : null,
+        "awayTeam" : {
+          "team_name" : "Brighton",
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/51.png",
+          "team_id" : 51
+        },
+        "goalsAwayTeam" : null,
+        "league" : {
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "country" : "England",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png",
+          "name" : "Premier League"
+        },
+        "statusShort" : "NS",
+        "event_timestamp" : 1628949600,
+        "fixture_id" : 710557,
+        "event_date" : "2021-08-14T15:00:00+01:00",
+        "homeTeam" : {
+          "team_name" : "Burnley",
+          "team_id" : 44,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/44.png"
+        },
+        "status" : "Not Started",
+        "venue" : "Turf Moor",
         "score" : {
           "extratime" : null,
           "penalty" : null,
-          "fulltime" : "1-2",
-          "halftime" : "1-2"
+          "halftime" : null,
+          "fulltime" : null
         },
-        "fixture_id" : 718242,
-        "event_timestamp" : 1625252400,
-        "awayTeam" : {
-          "team_name" : "Italy",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/768.png",
-          "team_id" : 768
-        },
-        "referee" : "S. Vinčić",
-        "statusShort" : "TBD",
-        "firstHalfStart" : 1625252400,
-        "venue" : "Allianz Arena",
-        "round" : "Quarter-finals",
-        "goalsAwayTeam" : 2,
-        "league" : {
-          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/4.png",
-          "country" : "World",
-          "flag" : null,
-          "name" : "Euro Championship"
-        },
-        "secondHalfStart" : 1625256000,
-        "homeTeam" : {
-          "team_name" : "Belgium",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/1.png",
-          "team_id" : 1
-        },
-        "goalsHomeTeam" : 1,
-        "league_id" : 403
+        "referee" : null,
+        "elapsed" : 0,
+        "league_id" : 3456,
+        "round" : "Regular Season - 1"
       },
       {
-        "elapsed" : 90,
-        "status" : "Match Finished",
-        "event_date" : "2021-07-03T17:00:00+01:00",
+        "event_timestamp" : 1628949600,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_id" : 49,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/49.png",
+          "team_name" : "Chelsea"
+        },
+        "event_date" : "2021-08-14T15:00:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710558,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png",
+          "name" : "Premier League",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "country" : "England"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
         "score" : {
+          "penalty" : null,
+          "halftime" : null,
+          "extratime" : null,
+          "fulltime" : null
+        },
+        "venue" : "Stamford Bridge",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "team_name" : "Crystal Palace",
+          "team_id" : 52,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/52.png"
+        }
+      },
+      {
+        "event_timestamp" : 1628949600,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_name" : "Everton",
+          "team_id" : 45,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/45.png"
+        },
+        "event_date" : "2021-08-14T15:00:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710559,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "name" : "Premier League",
+          "country" : "England"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
+        "score" : {
+          "fulltime" : null,
           "extratime" : null,
           "penalty" : null,
-          "fulltime" : "1-2",
-          "halftime" : "0-2"
+          "halftime" : null
         },
-        "fixture_id" : 718186,
-        "event_timestamp" : 1625328000,
+        "venue" : "Goodison Park",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
         "awayTeam" : {
-          "team_name" : "Denmark",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/21.png",
-          "team_id" : 21
-        },
-        "referee" : "B. Kuipers",
-        "statusShort" : "TBD",
-        "firstHalfStart" : 1625328000,
-        "venue" : "Bakı Olimpiya Stadionu",
-        "round" : "Quarter-finals",
-        "goalsAwayTeam" : 2,
-        "league" : {
-          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/4.png",
-          "country" : "World",
-          "flag" : null,
-          "name" : "Euro Championship"
-        },
-        "secondHalfStart" : 1625331600,
-        "homeTeam" : {
-          "team_name" : "Czech Republic",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/770.png",
-          "team_id" : 770
-        },
-        "goalsHomeTeam" : 1,
-        "league_id" : 403
+          "team_name" : "Southampton",
+          "team_id" : 41,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/41.png"
+        }
       },
       {
-        "elapsed" : 90,
-        "status" : "Match Finished",
-        "event_date" : "2021-07-03T20:00:00+01:00",
+        "event_timestamp" : 1628949600,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_name" : "Leicester",
+          "team_id" : 46,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/46.png"
+        },
+        "event_date" : "2021-08-14T15:00:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710560,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "name" : "Premier League",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "country" : "England",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
         "score" : {
-          "halftime" : "0-1",
+          "penalty" : null,
           "extratime" : null,
-          "fulltime" : "0-4",
+          "fulltime" : null,
+          "halftime" : null
+        },
+        "venue" : "King Power Stadium",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "team_name" : "Wolves",
+          "team_id" : 39,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/39.png"
+        }
+      },
+      {
+        "event_timestamp" : 1628949600,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_name" : "Watford",
+          "team_id" : 38,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/38.png"
+        },
+        "event_date" : "2021-08-14T15:00:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710565,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "name" : "Premier League",
+          "country" : "England",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
+        "score" : {
+          "penalty" : null,
+          "extratime" : null,
+          "halftime" : null,
+          "fulltime" : null
+        },
+        "venue" : "Vicarage Road",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "team_name" : "Aston Villa",
+          "team_id" : 66,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/66.png"
+        }
+      },
+      {
+        "event_timestamp" : 1628958600,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_name" : "Norwich",
+          "team_id" : 71,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/71.png"
+        },
+        "event_date" : "2021-08-14T17:30:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710563,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png",
+          "name" : "Premier League",
+          "country" : "England",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
+        "score" : {
+          "fulltime" : null,
+          "extratime" : null,
+          "halftime" : null,
           "penalty" : null
         },
-        "fixture_id" : 718252,
-        "event_timestamp" : 1625338800,
+        "venue" : "Carrow Road",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
         "awayTeam" : {
-          "team_name" : "England",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/10.png",
-          "team_id" : 10
-        },
-        "referee" : "F. Brych",
-        "statusShort" : "TBD",
-        "firstHalfStart" : 1625338800,
-        "venue" : "Stadio Olimpico",
-        "round" : "Quarter-finals",
-        "goalsAwayTeam" : 4,
-        "league" : {
-          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/4.png",
-          "country" : "World",
-          "flag" : null,
-          "name" : "Euro Championship"
-        },
-        "secondHalfStart" : 1625342400,
+          "team_name" : "Liverpool",
+          "team_id" : 40,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/40.png"
+        }
+      },
+      {
+        "event_timestamp" : 1629032400,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
         "homeTeam" : {
-          "team_name" : "Ukraine",
-          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/772.png",
-          "team_id" : 772
+          "team_name" : "Newcastle",
+          "team_id" : 34,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/34.png"
         },
-        "goalsHomeTeam" : 0,
-        "league_id" : 403
+        "event_date" : "2021-08-15T14:00:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710562,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "name" : "Premier League",
+          "country" : "England",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
+        "score" : {
+          "fulltime" : null,
+          "penalty" : null,
+          "halftime" : null,
+          "extratime" : null
+        },
+        "venue" : "St. James' Park",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "team_name" : "West Ham",
+          "team_id" : 48,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/48.png"
+        }
+      },
+      {
+        "event_timestamp" : 1629041400,
+        "elapsed" : 0,
+        "round" : "Regular Season - 1",
+        "homeTeam" : {
+          "team_name" : "Tottenham",
+          "team_id" : 47,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/47.png"
+        },
+        "event_date" : "2021-08-15T16:30:00+01:00",
+        "status" : "Not Started",
+        "fixture_id" : 710564,
+        "secondHalfStart" : null,
+        "league_id" : 3456,
+        "goalsHomeTeam" : null,
+        "league" : {
+          "country" : "England",
+          "flag" : "https:\/\/media.api-sports.io\/flags\/gb.svg",
+          "name" : "Premier League",
+          "logo" : "https:\/\/media.api-sports.io\/football\/leagues\/39.png"
+        },
+        "goalsAwayTeam" : null,
+        "referee" : null,
+        "score" : {
+          "penalty" : null,
+          "extratime" : null,
+          "halftime" : null,
+          "fulltime" : null
+        },
+        "venue" : "Tottenham Hotspur Stadium",
+        "firstHalfStart" : null,
+        "statusShort" : "NS",
+        "awayTeam" : {
+          "team_name" : "Manchester City",
+          "team_id" : 50,
+          "logo" : "https:\/\/media.api-sports.io\/football\/teams\/50.png"
+        }
       }
-    ]
+    ],
+    "results" : 10
   }
 }
